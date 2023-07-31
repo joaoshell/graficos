@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # reading data
-dados = pd.read_csv('')
+dados = pd.read_csv('') #add the path and file to read it
 
 
 # enaming columns
