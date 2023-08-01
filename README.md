@@ -3,7 +3,7 @@
 Here are all the results about my studing about doing graphs with the help of python.
 I personally find it interesting due to past experiences where in my workplace we had a few problems regarding data viz software. 
 
-It's good to have a few card up your sleave.
+It's good to have a few cards up your sleave.
 
 As follows are some of the results I achieved learning with the wonderful work of Yan Holtz (https://python-graph-gallery.com/)
 
