@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # Reading data
 
-dados = pd.read_csv('D:/ProgramacaoJoao/bubblegraph/nuclear_explosions.csv')
+dados = pd.read_csv('')
 
 
 # Renaming columns
