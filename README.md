@@ -5,7 +5,7 @@ I personally find it interesitng due to past experiences where in my workplace w
 
 It's good to have a few card up your sleave.
 
-<b>Bubble Scaterplot</b>
+<b>Bubble Scatter Plot</b>
 
 ![nuclearbubble_figure_1](https://github.com/joaoshell/graficos/assets/53108235/0d33ef89-3bd2-42a7-ae7a-88fe38534634)
 
